@@ -1,0 +1,46 @@
+{
+    "supeli_uzantilar": [
+        ".exe",
+        ".dat",
+        ".cmd",
+        ".ps1",
+            ".js",
+            ".scr",
+            ".vbs",
+                ".msi" 
+        ],
+
+
+
+
+
+    "supeli_isimler": [
+        "crack",
+        "keygen",
+        "keylog",
+        "loader",
+        "patch",
+        "trojan",
+        "virus"
+
+    ],
+
+
+    "max_boyut_mb": 500,
+
+    "Varsayilan": [
+        "Temp",
+        "Startup",
+        "Downloads"
+        
+    ],
+    
+    "bilinen_hashler": [
+        
+    ],
+
+    "arama_kelime": [
+        "password",
+        "token"
+    ]
+}

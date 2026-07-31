@@ -1,0 +1,19 @@
+echo: Ekrana yazdirir
+add: dosya oluşturur
+rm: dosya siler
+addks: klasör oluşturur
+dng: istedğin dizine gitmeye yarar örneğin dng, Hangi dizine gitmek istersiniz: TerminalOS (TerminalOS klasörüne giriş yapildi)
+rm -ks: klasör siler (içindeki herşeyi sildiği için dikkatli kullanilmalidir)
+mvd: mevcut dizini gösterir
+exit: terminalden çikis yapar
+date: Tarihi gösterir
+time: Saati gösterir
+mgTKM: Taş Kağit Makas oynatir 
+mgSTM: Sayi tahmin etmece oynatir
+hpM: Hesap Makinesi
+rd: dosya okur veya açar
+mgBST: rus ruleti oyunu başlatır
+ls: klasör içini listeler (eklenmedi eklenecek)
+cp: dosyanin içeriğini kopyalayip başka bir dosyaya koyar (eklenmedi eklenecek)
+wr: dosyaya yazdirir (eklenmedi eklenecek)
+EKLENECEKTİR...
