@@ -2,9 +2,6 @@
 
 > Hello, friend.
 
-A Windows kernel terminal application.  
-*Bu, bir Windows çekirdek terminal uygulamasıdır.*
-
 ## Important note
 
 This program was built with PyInstaller. Some antivirus programs may falsely flag single-file Python executables as suspicious.
