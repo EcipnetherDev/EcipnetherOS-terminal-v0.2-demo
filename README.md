@@ -1,6 +1,7 @@
 # EcipnetherOS Terminal v0.2 — Demo
 
 > Hello, friend.
+This project is one of the first versions of the operating system. Although the version is v0.2.0 (0.2), this is in terms of operating system evaluation, the Alpha-Demo Terminal of the operating system is Version v2.0.0. Although it has some mistakes, this is the beginning of a big road...
 
 ## Important note
 
